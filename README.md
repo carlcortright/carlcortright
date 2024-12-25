@@ -1,9 +1,9 @@
 # Hello World 👋
 
-Hi! My name is Carl Cortright. Currently I'm the founder of [Coherent](https://coherent.sh) located in New York City. Before I was an early employee, engineer, and ventures team member at [Coinbase](https://coinbase.com). In my free time I enjoy going to hackathons, reading, and downhill skiing. If you’d like to learn more check out my blog or reach out on one of my socials.
+Hi! My name is Carl Cortright. I'm a software engineer and entrepreneur based in San Francisco. Currently I'm the CTO of higherrrrrrr, a social trading platform for crypto. 
+
 
 ## Links :link:
-[carlcortright.com](https://carlcortright.com)
 
 [Twitter](https://twitter.com/carlcortright)
 
