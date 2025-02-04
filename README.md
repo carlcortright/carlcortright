@@ -4,19 +4,16 @@ I'm a software engineer, entrepreneur, and investor based in San Francisco, CA w
 
 ## Who I Am
 
-- **Software Engineer & Entrepreneur:** I’ve spent a decade working at the intersection of technology and business—building software, launching startups, and investing in emerging technologies.
+- **Software Engineer & Entrepreneur:** I’ve spent a decade working at the intersection of technology and business—building software, launching startups, and investing in emerging technologies at places like Coinbase and founding companies that went through programs like Y Combinator. 
 - **Founder at [Thrive](https://thrivepointgroup.com):** Thrive is my passion project, blending advisory, consultancy, holding company, and fund to support innovative ideas and companies in my network.
 - **Coinbase Alum:** I started my career at Coinbase, advancing to Senior Software Engineer. My work spanned commerce, decentralized and centralized exchanges, and core financial infrastructure. I contributed to systems that moved trillions of dollars, secured hundreds of billions, and served hundreds of millions of users.
-- **Investor & Leader:** As the sole technical member of the Coinbase Ventures investment committee, I led early-stage cryptocurrency investments (about 40 direct investments and many more contributions). Later, as a technical CEO, I raised $5.3M from investors like Kindred Ventures, Matchstick, Foundry Group, Coinbase Ventures, and Chapter One, leading a team of 10 and taking multiple products to market. Most recently, I served as CTO at a YC-backed AI company and now actively invest in roughly 30 early-stage tech startups.
-
+- **Investor:** As the sole technical member of the Coinbase Ventures investment committee, I led early-stage cryptocurrency investments (about 40 direct investments and many more contributions). Before that I worked on the fund of funds at [Foundry Group](https://foundry.vc).
 ## What I Do
 
 At Thrive, I combine my extensive experience in software, entrepreneurship, and investing to:
 - **Build Software:** From simple SaaS applications to complex data infrastructure.
 - **Collaborate with Entrepreneurs:** Partnering with founders to bring innovative ideas to life.
 - **Deploy Capital:** Investing in ecosystems and startups I believe in.
-
-I also share my insights and experiences on my [blog](#) (link to your blog if available).
 
 ## Connect with Me
 
