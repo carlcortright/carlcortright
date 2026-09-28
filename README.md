@@ -18,6 +18,5 @@ At Excel, I combine my extensive experience in software, entrepreneurship, and i
 ## Connect with Me
 
 - **Excel:** [excel.holdings](https://excel.holdings)
-- **X (Twitter):** [@carlcortright](https://x.com/carlcortright)
 - **LinkedIn:** [Carl on LinkedIn](https://www.linkedin.com/in/carlcortright)
-- **GitHub:** [My GitHub Profile](https://github.com/carlcortright) <!-- Replace with your actual GitHub profile URL -->
+- **GitHub:** [My GitHub Profile](https://github.com/carlcortright)
