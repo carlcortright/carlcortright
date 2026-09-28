@@ -1,6 +1,6 @@
 # Hi, I'm Carl 👋
 
-I'm a software engineer, entrepreneur, and investor with over 10 years of experience building impactful software and companies.
+I'm a software engineer, entrepreneur, and very small check angel investor with over 10 years of experience building impactful software and companies.
 
 ## Who I Am
 
